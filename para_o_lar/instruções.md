@@ -1,6 +1,6 @@
 # Para o lar
 
-Como terceira parte da aula, com banco de dados, vamos cadastrar os nossos artistas.
+### Como terceira parte da aula, com banco de dados, vamos cadastrar os nossos artistas.
 
 ## 📑 Arquitetura do Projeto
 
@@ -24,7 +24,7 @@ para_o_lar
 
 ```
 
-📖 A `Schema` de como vai ser sua playlist fica totalmente com vcs, mas é necessário, ao menos, que contenha 5 ou mais campos, possuindo 3 tipos diferentes. Abaixo os exemplos de tipos.
+### 📖 A `Schema` de como vai ser sua playlist fica totalmente com vcs, mas é necessário, ao menos, que contenha 5 ou mais campos, possuindo 3 tipos diferentes. Abaixo os exemplos de tipos.
 
 ```
 datas -> Date ->  2022/12/13
@@ -41,11 +41,11 @@ boolean: Boolean -> true | false
  - (opicional) Tratamento de erros e tratamento de campos são bem vindos, mas não obrigátorios.
  - (obrigatorio) mesmo que seja feito em dupla, eu preciso que cada uma abra um PR indivudual e na descrição coloca o nome da dupla.
 
-Sugestão na hora de fazer
+### Sugestão na hora de fazer
 
 - um POST para criar os artistas.
 - um get de todos os artistas
 - um get por id 
 - (opcional) um get por nome
 
-Obrigada meninas, qualquer dúvida, podem me chamar no slack ou no linkedin.
+### Obrigada meninas, qualquer dúvida, podem me chamar no slack ou no linkedin.
